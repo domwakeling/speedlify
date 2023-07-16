@@ -15,6 +15,7 @@ module.exports = {
 		"https://lsersa.org/",
 		"https://distracted-elion-60a106.netlify.app/",
 		"https://delegate-site.netlify.app/",
-		"https://stunning-torte-f00404.netlify.app/"
+		"https://stunning-torte-f00404.netlify.app/",
+		"https://grand-youtiao-1959c5.netlify.app/"
 	]
 };
